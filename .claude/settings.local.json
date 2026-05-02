@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"c:\\\\Users\\\\Wael Samy\\\\Downloads\\\\Compressed\\\\deltaaccounts\\\\app\\\\\\(dashboard\\)\\\\manager\\\\manager-client.tsx\")",
+      "Bash(Measure-Object -Line)",
+      "Read(//c/c/Users/Wael Samy/Downloads/Compressed/deltaaccounts/**)"
+    ]
+  }
+}
